@@ -1,6 +1,6 @@
 # mini-project-I
 
-Welcome to your first **Mini Project**. This repo contains instructions what to do during the project. Enjoy!! 
+Welcome to your first **Mini Project**. This repo contains tasks and answers on API calls and data JSON data processing with Python. Enjoy!! 
 
 ## Transport of London
 
